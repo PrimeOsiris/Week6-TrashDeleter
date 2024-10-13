@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3aa19d91148a46140862ebc455ad188f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AvatarPre: {fileID: 7965725376300713401, guid: ce5a3057c0aa7aa42a9f06b93afe55a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

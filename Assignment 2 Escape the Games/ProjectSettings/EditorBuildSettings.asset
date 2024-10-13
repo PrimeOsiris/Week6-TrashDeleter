@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LoadingScenes/LoadingEscapeScene.unity
+    guid: 7c2ff44ef630e444bbbaed76559e35c9
+  - enabled: 1
+    path: Assets/Scenes/EscapeScene.unity
+    guid: 583b0faee1ec64e489749cc7a51fe641
+  - enabled: 1
+    path: Assets/Scenes/LoadingScenes/LoadingMenuScene.unity
+    guid: 1feded691d39a4845baad3d12a646383
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 16dfae026d5e3384bb2210534daaa4ec, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 381f175c5779e604da981b7d015c4d51, type: 2}
